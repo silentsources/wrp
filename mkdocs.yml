@@ -1,0 +1,14 @@
+site_name: Wave wet en regelgeving
+
+theme:
+  name: material
+  langueage: en
+ 
+# Copyright
+copyright: Copyright © 2023 - 2024 Wave Roleplay
+
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Wetboek: wetboek.md
+  - Gebieden: gebieden.md
