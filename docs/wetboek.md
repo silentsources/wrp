@@ -1,28 +1,28 @@
-# Wetboek Wave
+# Wetboek Tedeapolis
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Bestuur Wave |
-| Officiële naam            | Algemeen Wetboek Wave |
-| Citeertitel               | Wetboek Wave |
-| Vastgesteld door          | De Bestuurleden |
+| Overheidsorganisatie      | Hoge Raad Tedeapolis |
+| Officiële naam            | Algemeen Wetboek Tedeapolis |
+| Citeertitel               | Wetboek Tedeapolis |
+| Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid |
 
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-1. Het Wetboek Wave (verder aangeduid als WWRP) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
-2. Het WWRP heeft betrekking op het vaste land, de gemeente, en de stad Wave.
-3. Het WWRP is nauw verweven met de Algemene Plaatselijke Verordening Wave (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Het Wetboek Tedeapolis (verder aangeduid als WTDA) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
+2. Het WTDA heeft betrekking op het vaste land, de gemeente, en de stad Tedeapolis.
+3. Het WTDA is nauw verweven met de Algemene Plaatselijke Verordening Tedeapolis (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
 
 1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-3. Minderjarigen worden binnen Wave op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Wave niet van toepassing.
+3. Minderjarigen worden binnen Tedeapolis op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Tedeapolis niet van toepassing.
 
 ### A3 - Verjaring van het strafbaar feit
 
@@ -84,7 +84,7 @@
     8. Er kan alleen in beroep gegaan worden tegen een inbeslagname door middel van een advocaat. Het voertuig kan er alleen uitgehaald worden als er een advocaat betrokken is, of d.m.v. het klachtenformulier.
     9. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
 3. Geldige redenen voor inbeslagname zijn:
-    1. Plegen van een strafbaar feit uit het wetboek van Wave waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
+    1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
     3. Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
     4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar of lid van de Koninklijke Luchtmacht;
@@ -335,6 +335,8 @@
 2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
 3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
 4. Bij een poging tot zware mishandeling wordt de straf met 33% verminderd.
+5. Zware mishandeling moet ten alle tijden gecontroleerd worden door een ambulancier. Die geeft dan een document Verklaring Letselschade Ambulance.
+6. Uitzondering op lid 5 is van toepassing als de persoon bewusteloos is geweest.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -871,6 +873,30 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Tweede Veroordeling**  | 37 maanden  |  | € 8500,-  |
 | **Meerdere Veroordelingen**  | 49 maanden  |  | € 9350,-  |
 
+### Artikel V-7 Vuurwerkbezit
+1. Strafbaar is een persoon die vuurwerk bij zich heeft of in bezit is van vuurwerk.
+2. Een persoon is niet strafbaar op het vertoon van de juiste documenten die uitgeschreven zijn door Justitie.
+3. Een persoon is ook niet strafbaar als hij/zij vuurwerk bij zich draagt op Oudjaardag en nieuwjaarsdag (31 december en 1 januari).
+4. Een persoon is ook strafbaar als deze heterdaad word betrapt op het afsteken van vuurwerk. Als dit artikel van kracht is mag de straf met 33% omhoog.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 10 maanden  |  | € 5000,-  |
+| **Tweede Veroordeling**  | 15 maanden  |  | € 7500,-  |
+| **Meerdere Veroordelingen**  | 30 maanden  |  | € 15000,-  |
+
+### Artikel V-8 Vuurwerkhandel
+1. Strafbaar is een persoon die vuurwerk verhandelt.
+2. Een persoon is niet strafbaar op het vertoon van de juiste documenten die uitgeschreven zijn door Justitie. 
+3. Een persoon is ook niet strafbaar als hij/zij vuurwerk bij zich draagt op Oudjaardag en nieuwjaarsdag (31 december en 1 januari).
+4. Een persoon is ook strafbaar als deze heterdaad word betrapt op het afsteken van vuurwerk. Als dit artikel van kracht is mag de straf met 33% omhoog.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 15 maanden  |  | € 7500,-  |
+| **Tweede Veroordeling**  | 25 maanden  |  | € 12500,-  |
+| **Meerdere Veroordelingen**  | 45 maanden  |  | € 22500,-  |
+
 ## Titel VI - Wet op de Kansspelen
 
 ![Titel VII](img/wetboek/kansspellen.webp)
@@ -988,9 +1014,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 1200,-  |
-| **Tweede Veroordeling**  |   | 15 uur  | € 1500,-  |
-| **Meerdere Veroordelingen**  |   | 20 uur  | € 2000,-  |
+|  **Eerste Veroordeling** |   | 10 uur  | € 2000,-  |
+| **Tweede Veroordeling**  |   | 15 uur  | € 3000,-  |
+| **Meerdere Veroordelingen**  |   | 20 uur  | € 4000,-  |
 
 ### Artikel VIII-3 Opgeven valse gegevens (435 SR)
 
@@ -1154,6 +1180,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 ### Artikel VIII-17 Misdrijven tegen de openbare orde (131 SR)
 
 1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft volgens onderstaande tabel.
+2. Dit geld ook voor personen die de openbare orde verstoren. De straf word dan wel met 33% verlaagt indien het alleen het verstoren van de openbare orde is.
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
@@ -1273,9 +1300,10 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 7. Bodycam beelden zijn op de volgende manier toegestaan:
     * Medewerkers in dienst bij de overheid zijn uitgerust met bodycams.
     * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycam beelden als bewijs willen gebruiken.   (Uitzondering op deze regel is wanneer dit niet mogelijk is (bijvoorbeeld bij een zwaar vest van de politie))
-    * De bodycam beelden mogen met 360 graden beeld gebruikt worden.
-    * Burgers kunnen alleen met hun telefoon filmen.
+    * De bodycam beelden mogen met 360 graden beeld gebruikt worden.Wanneer je in een voertuig zit gelden de dashcam regels, dus geen 360 graden beeld.
+    * Burgers kunnen gebruik maken van een telefoon, visuele bodycam & dashcam om te filmen.
     * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- en achteruit filmen.
+8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 24 uur de tijd om bewijs te verzamelen.
 
 ---------------------
-*Wetboek Wave is opgesteld uit naam van de Bestuur, bedoeld voor de gemeente en de stad “Wave”, opgetekend door Mick Superman en Mauro Superman, te Wave.*
+*Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
